@@ -26,6 +26,10 @@ strong, b, em, i {
     color: #ff6666;
 }
 
+img {
+    max-height: 50vh;
+}
+
 .header {
     height: 10vh;
 }
