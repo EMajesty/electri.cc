@@ -1,0 +1,72 @@
+body {
+    background-color: #222222;
+    color: #dddddd;
+    font-family: "mono", fallback-font, monospace;
+}
+
+h1 {
+    font-family: "gotisch", fallback-font, sans-serif;
+}
+
+a {
+    color: #cccccc;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ffffff;
+    text-decoration: line-through;
+}
+
+ul {
+    list-style-type:lower-greek;
+}
+
+strong, b, em, i {
+    color: #ff6666;
+}
+
+.header {
+    height: 10vh;
+}
+
+.header h1 {
+    text-align: center;
+}
+
+.container {
+    /* display: grid; */
+    /* grid-template-columns: auto minmax(0, 1200px) 1fr; */
+    /* min-height: 100vh; */
+    display: flex;
+}
+
+.sidebar {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    color: #ff6666;
+    /* grid-column: 1; */
+    position: sticky;
+    top: 0;
+    max-height: 90vh;
+    /* overflow-y: auto; */
+    max-width: 32ch;
+    padding: 20px;
+}
+
+.main-content {
+    /* grid-column: 2; */
+    flex: 1;
+    padding: 20px;
+}
+
+@font-face {
+    font-family: "gotisch";
+    src: url('gotisch.otf') format('opentype');
+}
+
+@font-face {
+    font-family: "mono";
+    src: url('mono.ttf') format('truetype');
+}
