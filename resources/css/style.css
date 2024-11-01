@@ -29,6 +29,7 @@ strong, b, em, i {
 img {
     max-height: 70vh;
     max-width: 90vw;
+    text-align: center;
 }
 
 .header {
