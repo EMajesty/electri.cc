@@ -2,6 +2,7 @@ body {
     background-color: #222222;
     color: #dddddd;
     font-family: "mono", fallback-font, monospace;
+
 }
 
 h1 {
@@ -27,8 +28,8 @@ strong, b, em, i {
 }
 
 img {
-    max-height: 70vh;
-    max-width: 90vw;
+    /* max-height: 70vh; */
+    max-width: 100%;
 }
 
 .header {
@@ -40,31 +41,28 @@ img {
 }
 
 .container {
-    /* display: grid; */
-    /* grid-template-columns: auto minmax(0, 1200px) 1fr; */
-    /* min-height: 100vh; */
     display: flex;
-    text-align: center;
+    justify-content: center;
+    align-items: top-center;
 }
 
 .sidebar {
+    background-color: #333333;
     text-overflow: ellipsis;
     overflow: hidden;
     white-space: nowrap;
     color: #ff6666;
-    /* grid-column: 1; */
     position: sticky;
     top: 0;
-    max-height: 90vh;
-    /* overflow-y: auto; */
-    max-width: 32ch;
-    padding: 20px;
+    /* max-height: 90vh; */
+    max-height: 100%;
+    padding: 2%;
 }
 
 .main-content {
-    /* grid-column: 2; */
-    flex: 1;
-    padding: 20px;
+    background-color: #333333;
+    padding: 2%;
+    width: 40vw;
 }
 
 @font-face {
