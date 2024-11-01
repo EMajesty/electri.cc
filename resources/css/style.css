@@ -44,6 +44,7 @@ img {
     /* grid-template-columns: auto minmax(0, 1200px) 1fr; */
     /* min-height: 100vh; */
     display: flex;
+    text-align: center;
 }
 
 .sidebar {
