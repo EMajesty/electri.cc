@@ -1,4 +1,4 @@
-# keyboards/layout
+# layout
 ### 34 keys
 ### home row mods
 ### layers
