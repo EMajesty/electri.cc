@@ -3,6 +3,8 @@
 REPO_URL="https://github.com/emajesty/ssgoat.git"
 BUILD_DIR="./build"
 
+echo "Hell world"
+
 cargo install --git $REPO_URL
 
 if [ -d "$BUILD_DIR" ]; then
