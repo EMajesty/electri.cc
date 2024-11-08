@@ -6,7 +6,7 @@ body {
 }
 
 h1 {
-    font-family: "gotisch", fallback-font, sans-serif;
+    font-family: "title", fallback-font, sans-serif;
 }
 
 a {
@@ -67,8 +67,8 @@ img {
 }
 
 @font-face {
-    font-family: "gotisch";
-    src: url('gotisch.otf') format('opentype');
+    font-family: "title";
+    src: url('title.ttf') format('truetype');
 }
 
 @font-face {
