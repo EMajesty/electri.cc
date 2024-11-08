@@ -1,0 +1,11 @@
+# homelab
+- Fujitsu FUTRO S930 | OPNsense
+- Raspberry Pi 3 | Pi-Hole
+- i5-7400 based box | Proxmox
+	- File server
+	- Media server
+	- Web server
+	- Torrent server
+	- Homebridge
+	- Zigbee2MQTT
+	- Internet radio
