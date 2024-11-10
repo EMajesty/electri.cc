@@ -16,7 +16,7 @@ a {
 }
 
 a:hover {
-    color: #fdfdfd;
+    color: #00ff00;
     text-decoration: line-through;
 }
 
