@@ -9,3 +9,4 @@
 	- Homebridge
 	- Zigbee2MQTT
 	- Internet radio
+- Raspberry Pi 3 | Klipper, Fluidd
