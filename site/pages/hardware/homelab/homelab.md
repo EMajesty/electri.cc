@@ -1,12 +1,17 @@
 # homelab
-- Fujitsu FUTRO S930 | OPNsense
-- Raspberry Pi 3 | Pi-Hole
-- i5-7400 based box | Proxmox
-	- File server
-	- Media server
-	- Web server
-	- Torrent server
-	- Homebridge
-	- Zigbee2MQTT
-	- Internet radio
-- Raspberry Pi 3 | Klipper, Fluidd
+- fujitsu s930 | opnsense
+- raspberry pi 3 | pi-hole
+- i5-7400 box | proxmox
+	- file server
+		- 3x 4tb ironwolf pro in raidz1
+	- media server
+		- jellyfin
+	- web server
+		- nginx
+		- nginx proxy manager
+	- torrent server
+	- homebridge
+	- zigbee2mqtt
+	- internet radio
+		- icecast2
+- raspberry pi 3 | klipper, fluidd
