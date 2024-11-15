@@ -8,7 +8,6 @@
 		- jellyfin
 	- web server
 		- nginx
-		- nginx proxy manager
 	- torrent server
 	- homebridge
 	- zigbee2mqtt
