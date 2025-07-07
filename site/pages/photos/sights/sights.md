@@ -1,1 +1,1 @@
-[we have such sights to show you](sights.electri.cc)
+[we have such sights to show you](https://sights.electri.cc)
