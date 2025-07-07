@@ -1,0 +1,1 @@
+[we have such sights to show you](sights.electri.cc)
