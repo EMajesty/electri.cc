@@ -1,2 +1,2 @@
 # cyberia
-[cyberia](https://github.com/EMajesty/cyberia)![[cyberia.jpg]]
+[cyberia](https://github.com/EMajesty/cyberia)![](cyberia.jpg)
