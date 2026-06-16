@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>games on hell world</title>
+		<link>http://localhost:1313/games/</link>
+		<description>Recent content in games on hell world</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 16 Jun 2026 11:50:49 +0300</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/games/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>dcf2979</title>
+				<link>http://localhost:1313/games/dcf2979/</link>
+				<pubDate>Tue, 16 Jun 2026 11:50:49 +0300</pubDate>
+				<guid>http://localhost:1313/games/dcf2979/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://emajesty.itch.io/disco&#34;&gt;&lt;img src=&#34;disco.png&#34; alt=&#34;disco&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>akka</title>
+				<link>http://localhost:1313/games/akka/</link>
+				<pubDate>Tue, 16 Jun 2026 11:50:40 +0300</pubDate>
+				<guid>http://localhost:1313/games/akka/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

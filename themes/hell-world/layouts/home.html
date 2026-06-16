@@ -1,9 +1,3 @@
 {{ define "main" }}
-  {{ .Content }}
-  {{ range site.RegularPages }}
-    <section>
-      <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-      {{ .Summary }}
-    </section>
-  {{ end }}
+  <img src="{{ "DSCF3165.jpg" | relURL }}" alt="">
 {{ end }}

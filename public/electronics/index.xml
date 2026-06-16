@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>electronics on hell world</title>
+		<link>http://localhost:1313/electronics/</link>
+		<description>Recent content in electronics on hell world</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 16 Jun 2026 11:49:41 +0300</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/electronics/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>misa</title>
+				<link>http://localhost:1313/electronics/misa/</link>
+				<pubDate>Tue, 16 Jun 2026 11:49:41 +0300</pubDate>
+				<guid>http://localhost:1313/electronics/misa/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/EMajesty/misa&#34;&gt;misa&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>midipawn</title>
+				<link>http://localhost:1313/electronics/midipawn/</link>
+				<pubDate>Tue, 16 Jun 2026 11:49:36 +0300</pubDate>
+				<guid>http://localhost:1313/electronics/midipawn/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>midilord</title>
+				<link>http://localhost:1313/electronics/midilord/</link>
+				<pubDate>Tue, 16 Jun 2026 11:49:33 +0300</pubDate>
+				<guid>http://localhost:1313/electronics/midilord/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/EMajesty/midilord&#34;&gt;midilord&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;midilord.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>cyberia</title>
+				<link>http://localhost:1313/electronics/cyberia/</link>
+				<pubDate>Tue, 16 Jun 2026 11:49:27 +0300</pubDate>
+				<guid>http://localhost:1313/electronics/cyberia/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/EMajesty/cyberia&#34;&gt;cyberia&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;cyberia.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>hopper</title>
+				<link>http://localhost:1313/electronics/hopper/</link>
+				<pubDate>Tue, 16 Jun 2026 11:49:24 +0300</pubDate>
+				<guid>http://localhost:1313/electronics/hopper/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/EMajesty/hopper&#34;&gt;hopper&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>harmi</title>
+				<link>http://localhost:1313/electronics/harmi/</link>
+				<pubDate>Tue, 16 Jun 2026 11:49:20 +0300</pubDate>
+				<guid>http://localhost:1313/electronics/harmi/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/EMajesty/harmi&#34;&gt;harmi&lt;/a&gt; is a midi chord generator inspired by &lt;a href=&#34;https://hichord.shop/&#34;&gt;HiChord&lt;/a&gt;, &lt;a href=&#34;https://nopia.io/&#34;&gt;Nopia&lt;/a&gt; and &lt;a href=&#34;https://telepathicinstruments.com/&#34;&gt;Orchid&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;harmi.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;harmisch.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;harmipcb.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>eiri</title>
+				<link>http://localhost:1313/electronics/eiri/</link>
+				<pubDate>Tue, 16 Jun 2026 11:49:15 +0300</pubDate>
+				<guid>http://localhost:1313/electronics/eiri/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/EMajesty/eiri&#34;&gt;eiri&lt;/a&gt; is an Atreus-inspired 40% keyboard with 6 columns.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;iiw7anxu.bmp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

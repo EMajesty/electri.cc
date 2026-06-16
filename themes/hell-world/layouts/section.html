@@ -4,7 +4,11 @@
   {{ range .Pages }}
     <section>
       <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-      {{ .Summary }}
+      {{ with (.Resources.ByType "image" | first 1) }}
+        {{ range . }}
+          <a href="{{ $.RelPermalink }}"><img src="{{ .RelPermalink }}" alt=""></a>
+        {{ end }}
+      {{ end }}
     </section>
   {{ end }}
 {{ end }}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>software on hell world</title>
+		<link>http://localhost:1313/software/</link>
+		<description>Recent content in software on hell world</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 16 Jun 2026 11:50:10 +0300</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/software/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>convert-shit</title>
+				<link>http://localhost:1313/software/convert-shit/</link>
+				<pubDate>Tue, 16 Jun 2026 11:50:10 +0300</pubDate>
+				<guid>http://localhost:1313/software/convert-shit/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/EMajesty/convert-shit&#34;&gt;convert-shit&lt;/a&gt; is WIP&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;Pasted%20image%2020241101233208.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>srrssr</title>
+				<link>http://localhost:1313/software/srrssr/</link>
+				<pubDate>Tue, 16 Jun 2026 11:50:05 +0300</pubDate>
+				<guid>http://localhost:1313/software/srrssr/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/EMajesty/srrssr&#34;&gt;srrssr&lt;/a&gt; is a garbage rss reader&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;Pasted%20image%2020241115174311.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>ssgoat</title>
+				<link>http://localhost:1313/software/ssgoat/</link>
+				<pubDate>Tue, 16 Jun 2026 11:49:56 +0300</pubDate>
+				<guid>http://localhost:1313/software/ssgoat/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/EMajesty/ssgoat&#34;&gt;ssgoat&lt;/a&gt; is a simple static site generator written in Rust, used to create the first version of this site, before migrating to Hugo.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;Pasted%20image%2020241101233346.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

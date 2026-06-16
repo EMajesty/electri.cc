@@ -3,42 +3,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/sights/</loc>
+    <lastmod>2026-06-16T11:51:43+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/luthiery/</loc>
+    <lastmod>2026-06-16T11:51:25+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/luthiery/seiska/</loc>
+    <lastmod>2026-06-16T11:51:25+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/luthiery/stein/</loc>
+    <lastmod>2026-06-16T11:51:21+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/games/dcf2979/</loc>
+    <lastmod>2026-06-16T11:50:49+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/games/</loc>
+    <lastmod>2026-06-16T11:50:49+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/games/akka/</loc>
+    <lastmod>2026-06-16T11:50:40+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/software/convert-shit/</loc>
+    <lastmod>2026-06-16T11:50:10+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/software/</loc>
+    <lastmod>2026-06-16T11:50:10+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/software/srrssr/</loc>
+    <lastmod>2026-06-16T11:50:05+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/software/ssgoat/</loc>
+    <lastmod>2026-06-16T11:49:56+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/electronics/</loc>
+    <lastmod>2026-06-16T11:49:41+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/electronics/misa/</loc>
+    <lastmod>2026-06-16T11:49:41+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/electronics/midipawn/</loc>
+    <lastmod>2026-06-16T11:49:36+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/electronics/midilord/</loc>
+    <lastmod>2026-06-16T11:49:33+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/electronics/cyberia/</loc>
+    <lastmod>2026-06-16T11:49:27+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/electronics/hopper/</loc>
+    <lastmod>2026-06-16T11:49:24+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/electronics/harmi/</loc>
+    <lastmod>2026-06-16T11:49:20+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/electronics/eiri/</loc>
+    <lastmod>2026-06-16T11:49:15+03:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/links/</loc>
     <lastmod>2026-06-15T22:11:38+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2026-06-15T22:11:14+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/init/</loc>
-    <lastmod>2026-06-15T21:58:27+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/blue/</loc>
-    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/green/</loc>
-    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/post-3/</loc>
-    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/red/</loc>
-    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/post-2/</loc>
-    <lastmod>2023-02-15T10:00:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/post-1/</loc>
-    <lastmod>2023-01-15T09:00:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2023-01-01T08:30:00-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

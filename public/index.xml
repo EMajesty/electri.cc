@@ -10,50 +10,120 @@
 		
 		
 		
-			<lastBuildDate>Mon, 15 Jun 2026 22:11:38 +0300</lastBuildDate>
+			<lastBuildDate>Tue, 16 Jun 2026 11:51:43 +0300</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Links</title>
+				<title>sights</title>
+				<link>http://localhost:1313/sights/</link>
+				<pubDate>Tue, 16 Jun 2026 11:51:43 +0300</pubDate>
+				<guid>http://localhost:1313/sights/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://sights.electri.cc&#34;&gt;we have such sights to show you&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>seiska</title>
+				<link>http://localhost:1313/luthiery/seiska/</link>
+				<pubDate>Tue, 16 Jun 2026 11:51:25 +0300</pubDate>
+				<guid>http://localhost:1313/luthiery/seiska/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>stein</title>
+				<link>http://localhost:1313/luthiery/stein/</link>
+				<pubDate>Tue, 16 Jun 2026 11:51:21 +0300</pubDate>
+				<guid>http://localhost:1313/luthiery/stein/</guid>
+				<description>&lt;p&gt;Eons in the making, inspired by Holdsworthian dreams and marketplace hardware finds.&#xA;&lt;img src=&#34;2017-03-16%2018.33.29.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;2017-03-16%2019.49.26.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;2017-03-16%2022.52.00.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;2017-03-17%2023.05.15.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;2017-03-30%2019.24.42.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;2017-09-21%2018.08.43.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;2017-09-28%2016.53.31.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;2017-09-28%2017.56.53.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;2017-09-28%2018.43.56.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;2017-09-28%2019.07.54.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;2017-10-05%2018.56.26.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;2017-11-23%2018.35.03.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;2017-11-23%2018.35.13.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;Pasted%20image%2020250211105517.png&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;Pasted%20image%2020250211105506.png&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;Pasted%20image%2020250211105448.png&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;Pasted%20image%2020250211105436.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>dcf2979</title>
+				<link>http://localhost:1313/games/dcf2979/</link>
+				<pubDate>Tue, 16 Jun 2026 11:50:49 +0300</pubDate>
+				<guid>http://localhost:1313/games/dcf2979/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://emajesty.itch.io/disco&#34;&gt;&lt;img src=&#34;disco.png&#34; alt=&#34;disco&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>akka</title>
+				<link>http://localhost:1313/games/akka/</link>
+				<pubDate>Tue, 16 Jun 2026 11:50:40 +0300</pubDate>
+				<guid>http://localhost:1313/games/akka/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>convert-shit</title>
+				<link>http://localhost:1313/software/convert-shit/</link>
+				<pubDate>Tue, 16 Jun 2026 11:50:10 +0300</pubDate>
+				<guid>http://localhost:1313/software/convert-shit/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/EMajesty/convert-shit&#34;&gt;convert-shit&lt;/a&gt; is WIP&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;Pasted%20image%2020241101233208.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>srrssr</title>
+				<link>http://localhost:1313/software/srrssr/</link>
+				<pubDate>Tue, 16 Jun 2026 11:50:05 +0300</pubDate>
+				<guid>http://localhost:1313/software/srrssr/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/EMajesty/srrssr&#34;&gt;srrssr&lt;/a&gt; is a garbage rss reader&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;Pasted%20image%2020241115174311.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>ssgoat</title>
+				<link>http://localhost:1313/software/ssgoat/</link>
+				<pubDate>Tue, 16 Jun 2026 11:49:56 +0300</pubDate>
+				<guid>http://localhost:1313/software/ssgoat/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/EMajesty/ssgoat&#34;&gt;ssgoat&lt;/a&gt; is a simple static site generator written in Rust, used to create the first version of this site, before migrating to Hugo.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;Pasted%20image%2020241101233346.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>misa</title>
+				<link>http://localhost:1313/electronics/misa/</link>
+				<pubDate>Tue, 16 Jun 2026 11:49:41 +0300</pubDate>
+				<guid>http://localhost:1313/electronics/misa/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/EMajesty/misa&#34;&gt;misa&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>midipawn</title>
+				<link>http://localhost:1313/electronics/midipawn/</link>
+				<pubDate>Tue, 16 Jun 2026 11:49:36 +0300</pubDate>
+				<guid>http://localhost:1313/electronics/midipawn/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>midilord</title>
+				<link>http://localhost:1313/electronics/midilord/</link>
+				<pubDate>Tue, 16 Jun 2026 11:49:33 +0300</pubDate>
+				<guid>http://localhost:1313/electronics/midilord/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/EMajesty/midilord&#34;&gt;midilord&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;midilord.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>cyberia</title>
+				<link>http://localhost:1313/electronics/cyberia/</link>
+				<pubDate>Tue, 16 Jun 2026 11:49:27 +0300</pubDate>
+				<guid>http://localhost:1313/electronics/cyberia/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/EMajesty/cyberia&#34;&gt;cyberia&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;cyberia.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>hopper</title>
+				<link>http://localhost:1313/electronics/hopper/</link>
+				<pubDate>Tue, 16 Jun 2026 11:49:24 +0300</pubDate>
+				<guid>http://localhost:1313/electronics/hopper/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/EMajesty/hopper&#34;&gt;hopper&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>harmi</title>
+				<link>http://localhost:1313/electronics/harmi/</link>
+				<pubDate>Tue, 16 Jun 2026 11:49:20 +0300</pubDate>
+				<guid>http://localhost:1313/electronics/harmi/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/EMajesty/harmi&#34;&gt;harmi&lt;/a&gt; is a midi chord generator inspired by &lt;a href=&#34;https://hichord.shop/&#34;&gt;HiChord&lt;/a&gt;, &lt;a href=&#34;https://nopia.io/&#34;&gt;Nopia&lt;/a&gt; and &lt;a href=&#34;https://telepathicinstruments.com/&#34;&gt;Orchid&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;harmi.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;harmisch.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;harmipcb.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>eiri</title>
+				<link>http://localhost:1313/electronics/eiri/</link>
+				<pubDate>Tue, 16 Jun 2026 11:49:15 +0300</pubDate>
+				<guid>http://localhost:1313/electronics/eiri/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/EMajesty/eiri&#34;&gt;eiri&lt;/a&gt; is an Atreus-inspired 40% keyboard with 6 columns.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;iiw7anxu.bmp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>links</title>
 				<link>http://localhost:1313/links/</link>
 				<pubDate>Mon, 15 Jun 2026 22:11:38 +0300</pubDate>
 				<guid>http://localhost:1313/links/</guid>
 				<description>&lt;p&gt;&lt;a href=&#34;https://evilwaveforms.com/&#34;&gt;https://evilwaveforms.com/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://rotta.neocities.org/&#34;&gt;https://rotta.neocities.org/&lt;/a&gt;&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>About</title>
-				<link>http://localhost:1313/about/</link>
-				<pubDate>Mon, 15 Jun 2026 22:11:14 +0300</pubDate>
-				<guid>http://localhost:1313/about/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Init</title>
-				<link>http://localhost:1313/posts/init/</link>
-				<pubDate>Mon, 15 Jun 2026 21:58:27 +0300</pubDate>
-				<guid>http://localhost:1313/posts/init/</guid>
-				<description>&lt;h1 id=&#34;hell-world&#34;&gt;hell world&lt;/h1&gt;&#xA;&lt;p&gt;hell world&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;                             ▄▄       ▄▄                                                      ▄▄    ▄▄       &#xA;  ▄▄▄█▀▀                 ▄███▀    ▄███▀       ██▀                                         ▄███▀   ▄█         &#xA;█████                   █████    █████       ███▄   ▄█▄   ▄█▄         ▄▄      ▄▄    ▄    █████   ████▄▄      &#xA;▀████           ▄▄      ▀████    ▀████      ▀█████▄█████▄████    ▄▄▄▄███▄   ▄▄███ ▄██▄   ▀████   ▀███████▄   &#xA; ████ ▄██▄    ▄█████▄    ████     ████       ▀████  ████ ▀███▄  ████ ████▄ ▀▀████▄████▀   ████     ▀▀▀█████  &#xA; ████▄████▄ ▄███▀████▄   ████     ████        ████  ████  ████  ████ █████   █████▀██▀    ████    ▄███ ▀████ &#xA; ████  ████ ████ ▀███▀   ████     ████        ████  ████  ████  ████ █████   █████ ▀      ████    ████  ████&#xA; ████  ████ ████▄▀▀      ████     ████        ████  ████  ████  ████ ████▀   █████        ████    ████  ████ &#xA; ████  ████ ████▀        ████     ████       ▄████  ████▄ ███▀ ▄████▄████   ▄████▄ ▄▀     ████    ████  ███▀ &#xA; ████  ████ ▀████▄ ▄██  ▄████    ▄████       ▀████▀▀▀█████▀     ▀██████▀    ▀▀█████▀     ▄████   ▄████▄▄███  &#xA;▄████▄ ███▀  ▀██████▀   ▀████▀   ▀████▀        ▀▀     ▀▀          ▀█▀          ▀█▀       ▀████▀   ▀▀████▀▀   &#xA; ▀█▀▀  ███     ▀██▀       ▀▀       ▀▀                                                      ▀▀        ▀▀      &#xA;      ▄██▀                                                                                                   &#xA;      ██                                                                                                     &#xA;    ▄▀&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
-			</item>
-			<item>
-				<title>Post 3</title>
-				<link>http://localhost:1313/posts/post-3/</link>
-				<pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-				<guid>http://localhost:1313/posts/post-3/</guid>
-				<description>&lt;p&gt;Occaecat aliqua consequat laborum ut ex aute aliqua culpa quis irure esse magna dolore quis. Proident fugiat labore eu laboris officia Lorem enim. Ipsum occaecat cillum ut tempor id sint aliqua incididunt nisi incididunt reprehenderit. Voluptate ad minim sint est aute aliquip esse occaecat tempor officia qui sunt. Aute ex ipsum id ut in est velit est laborum incididunt. Aliqua qui id do esse sunt eiusmod id deserunt eu nostrud aute sit ipsum. Deserunt esse cillum Lorem non magna adipisicing mollit amet consequat.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Post 2</title>
-				<link>http://localhost:1313/posts/post-2/</link>
-				<pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-				<guid>http://localhost:1313/posts/post-2/</guid>
-				<description>&lt;p&gt;Anim eiusmod irure incididunt sint cupidatat. Incididunt irure irure irure nisi ipsum do ut quis fugiat consectetur proident cupidatat incididunt cillum. Dolore voluptate occaecat qui mollit laborum ullamco et. Ipsum laboris officia anim laboris culpa eiusmod ex magna ex cupidatat anim ipsum aute. Mollit aliquip occaecat qui sunt velit ut cupidatat reprehenderit enim sunt laborum. Velit veniam in officia nulla adipisicing ut duis officia.&lt;/p&gt;&#xA;&lt;p&gt;Exercitation voluptate irure in irure tempor mollit Lorem nostrud ad officia. Velit id fugiat occaecat do tempor. Sit officia Lorem aliquip eu deserunt consectetur. Aute proident deserunt in nulla aliquip dolore ipsum Lorem ut cupidatat consectetur sit sint laborum. Esse cupidatat sit sint sunt tempor exercitation deserunt. Labore dolor duis laborum est do nisi ut veniam dolor et nostrud nostrud.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Post 1</title>
-				<link>http://localhost:1313/posts/post-1/</link>
-				<pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-				<guid>http://localhost:1313/posts/post-1/</guid>
-				<description>&lt;p&gt;Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&lt;/p&gt;&#xA;&lt;p&gt;Occaecat nulla excepteur dolore excepteur duis eiusmod ullamco officia anim in voluptate ea occaecat officia. Cillum sint esse velit ea officia minim fugiat. Elit ea esse id aliquip pariatur cupidatat id duis minim incididunt ea ea. Anim ut duis sunt nisi. Culpa cillum sit voluptate voluptate eiusmod dolor. Enim nisi Lorem ipsum irure est excepteur voluptate eu in enim nisi. Nostrud ipsum Lorem anim sint labore consequat do.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
