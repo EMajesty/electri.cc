@@ -8,7 +8,7 @@ header {
   margin-bottom: 1rem;
   padding-bottom: 1rem;
 }
-.site-logo svg {
+.site-logo img {
   height: 15rem;
   width: auto;
 }
@@ -60,5 +60,10 @@ img {
 }
 h1 {
   text-align: center;
+}
+.posts-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
 }
 /*# sourceMappingURL=main.css.map */

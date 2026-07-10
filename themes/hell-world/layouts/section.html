@@ -1,6 +1,7 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+  <div class="posts-grid">
   {{ range .Pages }}
     <section>
       <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
@@ -12,4 +13,5 @@
       {{ end }}
     </section>
   {{ end }}
+  </div>
 {{ end }}
