@@ -4,10 +4,17 @@ draft = true
 title = 'sim'
 +++
 
-| stuff | stuff |
+| | |
 |---|---|
 |servo|moza r12 v2|
+|wheel|moza gs v2p|
+|wheel|vertex clone|
 |pedals|simjack ut-p3|
 |shifter|moza hgd|
-|ebrake|lc converted ali special|
+|ebrake|simsonn lc handbrake|
+|seat haptics|dayton bst-1|
+|pedal haptics|dayton tt25|
+|haptics amp|nobsound ns-01g|
+|seat|omp|
+|rig|aluxprofile 4080 rig|
 

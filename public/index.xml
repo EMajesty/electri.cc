@@ -10,22 +10,43 @@
 		
 		
 		
-			<lastBuildDate>Fri, 26 Jun 2026 21:33:50 +0300</lastBuildDate>
+			<lastBuildDate>Sat, 01 Aug 2026 19:11:05 +0300</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>hopper</title>
+				<link>http://localhost:1313/electronics/hopper/</link>
+				<pubDate>Sat, 01 Aug 2026 19:11:05 +0300</pubDate>
+				<guid>http://localhost:1313/electronics/hopper/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/EMajesty/hopper&#34;&gt;hopper&lt;/a&gt; is a work in progress dsp pedal platform based on the stm32h743vi mcu.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>midipawn</title>
+				<link>http://localhost:1313/electronics/midipawn/</link>
+				<pubDate>Sat, 01 Aug 2026 19:09:43 +0300</pubDate>
+				<guid>http://localhost:1313/electronics/midipawn/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/EMajesty/midipawn&#34;&gt;midipawn&lt;/a&gt; is a midi-controlled relay switcher with 10 loops.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>rumbo</title>
+				<link>http://localhost:1313/software/rumbo/</link>
+				<pubDate>Sat, 01 Aug 2026 18:57:43 +0300</pubDate>
+				<guid>http://localhost:1313/software/rumbo/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/EMajesty/rumbo&#34;&gt;rumbo&lt;/a&gt; is an absolutely vibecoded, work in progress racing sim haptics manager for linux.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;ui.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>guitars</title>
+				<link>http://localhost:1313/guitars/</link>
+				<pubDate>Mon, 13 Jul 2026 23:41:16 +0300</pubDate>
+				<guid>http://localhost:1313/guitars/</guid>
+				<description>&lt;h1 id=&#34;fender-player-ii-jazzmaster&#34;&gt;Fender Player II Jazzmaster&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Came hardtailed&lt;/li&gt;&#xA;&lt;li&gt;Swapped trem from the other JM&lt;/li&gt;&#xA;&lt;li&gt;TB pups???&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;fender-classic-player-jazzmaster&#34;&gt;Fender Classic Player Jazzmaster&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Some reissue wide ranges&lt;/li&gt;&#xA;&lt;li&gt;Hardtail plate from the other JM&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;tokai-goldstar-sound-tele&#34;&gt;Tokai Goldstar Sound Tele&lt;/h1&gt;&#xA;&lt;h1 id=&#34;ibanez-rg565-genesis&#34;&gt;Ibanez RG565 Genesis&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Emerald green&lt;/li&gt;&#xA;&lt;li&gt;SD Parallel Axis&lt;/li&gt;&#xA;&lt;li&gt;Dimarzio joku raili&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;jackson-x-series-slathx-m-3-7-soloist&#34;&gt;Jackson X Series SLATHX-M 3-7 Soloist&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Snow white&lt;/li&gt;&#xA;&lt;li&gt;Tone disconnected&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;jet-js-400&#34;&gt;Jet JS-400&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Seafoam green&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;squier-classic-vibe-50s-precision-bass&#34;&gt;Squier Classic Vibe &amp;rsquo;50s Precision Bass&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Epiphone 760 Thunderbird pickups&lt;/li&gt;&#xA;&lt;li&gt;Routed for bridge pickup&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;ibanez-ga50sw-nt&#34;&gt;Ibanez GA50SW-NT&lt;/h1&gt;</description>
+			</item>
 			<item>
 				<title>sim</title>
 				<link>http://localhost:1313/sim/</link>
 				<pubDate>Fri, 26 Jun 2026 21:33:50 +0300</pubDate>
 				<guid>http://localhost:1313/sim/</guid>
-				<description>&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;stuff&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;stuff&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;servo&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;moza r12 v2&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;pedals&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;simjack ut-p3&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;shifter&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;moza hgd&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;ebrake&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;lc converted ali special&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
-			</item>
-			<item>
-				<title>peripherals</title>
-				<link>http://localhost:1313/peripherals/</link>
-				<pubDate>Wed, 17 Jun 2026 14:12:43 +0300</pubDate>
-				<guid>http://localhost:1313/peripherals/</guid>
-				<description></description>
+				<description>&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;servo&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;moza r12 v2&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;wheel&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;moza gs v2p&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;wheel&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;vertex clone&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;pedals&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;simjack ut-p3&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;shifter&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;moza hgd&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;ebrake&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;simsonn lc handbrake&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;seat haptics&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;dayton bst-1&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;pedal haptics&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;dayton tt25&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;haptics amp&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;nobsound ns-01g&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;seat&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;omp&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;rig&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;aluxprofile 4080 rig&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
 			</item>
 			<item>
 				<title>sights</title>
@@ -91,13 +112,6 @@
 				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/EMajesty/misa&#34;&gt;misa&lt;/a&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>midipawn</title>
-				<link>http://localhost:1313/electronics/midipawn/</link>
-				<pubDate>Tue, 16 Jun 2026 11:49:36 +0300</pubDate>
-				<guid>http://localhost:1313/electronics/midipawn/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>midilord</title>
 				<link>http://localhost:1313/electronics/midilord/</link>
 				<pubDate>Tue, 16 Jun 2026 11:49:33 +0300</pubDate>
@@ -110,13 +124,6 @@
 				<pubDate>Tue, 16 Jun 2026 11:49:27 +0300</pubDate>
 				<guid>http://localhost:1313/electronics/cyberia/</guid>
 				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/EMajesty/cyberia&#34;&gt;cyberia&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;cyberia.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>hopper</title>
-				<link>http://localhost:1313/electronics/hopper/</link>
-				<pubDate>Tue, 16 Jun 2026 11:49:24 +0300</pubDate>
-				<guid>http://localhost:1313/electronics/hopper/</guid>
-				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/EMajesty/hopper&#34;&gt;hopper&lt;/a&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>harmi</title>

@@ -10,22 +10,36 @@
 		
 		
 		
-			<lastBuildDate>Tue, 16 Jun 2026 11:49:41 +0300</lastBuildDate>
+			<lastBuildDate>Sat, 01 Aug 2026 19:13:44 +0300</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/electronics/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>seg</title>
+				<link>http://localhost:1313/electronics/seg/</link>
+				<pubDate>Sat, 01 Aug 2026 19:13:44 +0300</pubDate>
+				<guid>http://localhost:1313/electronics/seg/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/EMajesty/seg&#34;&gt;seg&lt;/a&gt; is a work in progress set of pcbs to drive massive 7-segment display modules.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>hopper</title>
+				<link>http://localhost:1313/electronics/hopper/</link>
+				<pubDate>Sat, 01 Aug 2026 19:11:05 +0300</pubDate>
+				<guid>http://localhost:1313/electronics/hopper/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/EMajesty/hopper&#34;&gt;hopper&lt;/a&gt; is a work in progress dsp pedal platform based on the stm32h743vi mcu.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>midipawn</title>
+				<link>http://localhost:1313/electronics/midipawn/</link>
+				<pubDate>Sat, 01 Aug 2026 19:09:43 +0300</pubDate>
+				<guid>http://localhost:1313/electronics/midipawn/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/EMajesty/midipawn&#34;&gt;midipawn&lt;/a&gt; is a midi-controlled relay switcher with 10 loops.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>misa</title>
 				<link>http://localhost:1313/electronics/misa/</link>
 				<pubDate>Tue, 16 Jun 2026 11:49:41 +0300</pubDate>
 				<guid>http://localhost:1313/electronics/misa/</guid>
-				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/EMajesty/misa&#34;&gt;misa&lt;/a&gt;&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>midipawn</title>
-				<link>http://localhost:1313/electronics/midipawn/</link>
-				<pubDate>Tue, 16 Jun 2026 11:49:36 +0300</pubDate>
-				<guid>http://localhost:1313/electronics/midipawn/</guid>
-				<description></description>
+				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/EMajesty/misa&#34;&gt;misa&lt;/a&gt; is a work in progress single board computer based on the 68k cpu.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>midilord</title>
@@ -40,13 +54,6 @@
 				<pubDate>Tue, 16 Jun 2026 11:49:27 +0300</pubDate>
 				<guid>http://localhost:1313/electronics/cyberia/</guid>
 				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/EMajesty/cyberia&#34;&gt;cyberia&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;cyberia.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>hopper</title>
-				<link>http://localhost:1313/electronics/hopper/</link>
-				<pubDate>Tue, 16 Jun 2026 11:49:24 +0300</pubDate>
-				<guid>http://localhost:1313/electronics/hopper/</guid>
-				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/EMajesty/hopper&#34;&gt;hopper&lt;/a&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>harmi</title>

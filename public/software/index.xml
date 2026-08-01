@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 16 Jun 2026 11:50:10 +0300</lastBuildDate>
+			<lastBuildDate>Sat, 01 Aug 2026 18:57:43 +0300</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/software/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>rumbo</title>
+				<link>http://localhost:1313/software/rumbo/</link>
+				<pubDate>Sat, 01 Aug 2026 18:57:43 +0300</pubDate>
+				<guid>http://localhost:1313/software/rumbo/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/EMajesty/rumbo&#34;&gt;rumbo&lt;/a&gt; is an absolutely vibecoded, work in progress racing sim haptics manager for linux.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;ui.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>convert-shit</title>
 				<link>http://localhost:1313/software/convert-shit/</link>
