@@ -6,6 +6,7 @@ title = 'sim'
 
 | | |
 |---|---|
+|hmd|valve index|
 |servo|moza r12 v2|
 |wheel|moza gs v2p|
 |wheel|vertex clone|
